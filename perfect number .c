@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//c program to check whether a number is perfect number or not
 int main() {
     int n,sum=0,i;
     printf("enter n value");
