@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//c program on decimal to binary
 int main()
 {   int n,binary=0,rem=0,place =1;
     printf("enter a decimal number");
@@ -12,4 +12,6 @@ int main()
         place=place*10;
     }
     printf("%d",binary);
+return 0;
+
 }
